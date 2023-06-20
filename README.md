@@ -1,4 +1,3 @@
-# HELLO I'm Harshil
 <h1 align="center">Hi , I'm Harshil Gupta</h1>
 <h3 align="center">Web Developer</h3>
 
