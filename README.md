@@ -2,8 +2,8 @@
 <h3 align="center">Web Developer</h3>
 
 - Ask me about **MongoDB, Express, React, Node**
-
 - How to reach me **harshilgupta562@gmail.com**
+- Quote **It's not Magic, It's Talent and Hardwork**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
